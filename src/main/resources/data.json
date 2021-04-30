@@ -1,0 +1,38 @@
+[
+    {
+        "partyName": "Party A",
+        "orderType": "SELL",
+        "stockName": "IBM",
+        "price": "110"
+    },
+    {
+        "partyName": "Party A",
+        "orderType": "SELL",
+        "stockName": "INFY",
+        "price": "600"
+    },
+    {
+        "partyName": "Party A",
+        "orderType": "SELL",
+        "stockName": "GOOG",
+        "price": "500"
+    },
+    {
+        "partyName": "Party B",
+        "orderType": "BUY",
+        "stockName": "IBM",
+        "price": "110"
+    },
+    {
+        "partyName": "Party C",
+        "orderType": "BUY",
+        "stockName": "IBM",
+        "price": "110"
+    },
+    {
+        "partyName": "Party C",
+        "orderType": "BUY",
+        "stockName": "INFY",
+        "price": "600"
+    }
+]
